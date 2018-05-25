@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 10118194-0001LF
+#
+DEF 10118194-0001LF J 0 40 Y Y 1 L N
+F0 "J" -290 220 50 H V L BNN
+F1 "10118194-0001LF" -300 -300 50 H V L BNN
+F2 "FRAMATOME_10118194-0001LF" 0 0 50 H I L BNN
+F3 "10118194-0001LF" 0 0 50 H I L BNN
+F4 "Conn Micro USB Type B RCP 5 POS 0.65mm Solder RA SMD 5 Terminal 1 Port T/R" 0 0 50 H I L BNN
+F5 "Good" 0 0 50 H I L BNN
+F6 "0.23 USD" 0 0 50 H I L BNN
+F7 "DIP-4 FCI" 0 0 50 H I L BNN
+F8 "Amphenol" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 10 -300 200 -300 -200 N
+P 2 0 0 10 -300 -200 300 -200 N
+P 2 0 0 10 300 -200 300 200 N
+P 2 0 0 10 300 200 -300 200 N
+X D+ 3 -500 100 200 R 40 40 0 0 B 
+X D 2 -500 0 200 R 40 40 0 0 B 
+X ID 4 -500 -100 200 R 40 40 0 0 P 
+X GND 5 500 -100 200 L 40 40 0 0 W 
+X VDD 1 500 100 200 L 40 40 0 0 W 
+ENDDRAW
+ENDDEF
+#
+# End Library

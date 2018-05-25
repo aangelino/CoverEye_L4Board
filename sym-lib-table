@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Power-rescue)(type Legacy)(uri ${KIPRJMOD}/Power-rescue.lib)(options "")(descr ""))
+  (lib (name MCU-rescue)(type Legacy)(uri ${KIPRJMOD}/MCU-rescue.lib)(options "")(descr ""))
+)

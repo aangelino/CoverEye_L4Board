@@ -1,0 +1,38 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 691311500008
+#
+DEF 691311500008 J 0 40 Y N 1 L N
+F0 "J" 50 9 50 H V L BNN
+F1 "691311500008" 50 -100 50 H V L BNN
+F2 "691311500008" 0 0 50 H I L BNN
+F3 "311; 5.08mm Pitch Straight Pluggable Term Block; PCB Header; Through Hole; 8 Way" 0 0 50 H I L BNN
+F4 "None" 0 0 50 H I L BNN
+F5 "691311500008" 0 0 50 H I L BNN
+F6 "Warning" 0 0 50 H I L BNN
+F7 "0.96 USD" 0 0 50 H I L BNN
+F8 "Würth Elektronik" 0 0 50 H I L BNN
+DRAW
+A -65 400 35 2700 900 0 0 10 N -65 435 -65 365
+A -65 300 35 2700 900 0 0 10 N -65 335 -65 265
+A -65 200 35 2700 900 0 0 10 N -65 235 -65 165
+A -65 100 35 2700 900 0 0 10 N -65 135 -65 65
+A -65 0 35 2700 900 0 0 10 N -65 35 -65 -35
+A -65 -100 35 2700 900 0 0 10 N -65 -65 -65 -135
+A -65 -200 35 2700 900 0 0 10 N -65 -165 -65 -235
+A -65 -300 35 2700 900 0 0 10 N -65 -265 -65 -335
+X 1 1 -200 400 100 R 40 40 0 0 P 
+X 2 2 -200 300 100 R 40 40 0 0 P 
+X 3 3 -200 200 100 R 40 40 0 0 P 
+X 4 4 -200 100 100 R 40 40 0 0 P 
+X 5 5 -200 0 100 R 40 40 0 0 P 
+X 6 6 -200 -100 100 R 40 40 0 0 P 
+X 7 7 -200 -200 100 R 40 40 0 0 P 
+X 8 8 -200 -300 100 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

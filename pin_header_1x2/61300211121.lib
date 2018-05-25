@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# 61300211121
+#
+DEF 61300211121 J 0 40 Y N 1 L N
+F0 "J" 150 -30 50 H V L BNN
+F1 "61300211121" 136 -115 50 H V L BNN
+F2 "61300211121" 0 0 50 H I L BNN
+F3 "61300211121" 0 0 50 H I L BNN
+F4 "Board-To-Board Connector, Vertical, WR-PHD Series, Through Hole, Header, 2, 2.54 mm" 0 0 50 H I L BNN
+F5 "Good" 0 0 50 H I L BNN
+F6 "1.27 USD" 0 0 50 H I L BNN
+F7 "None" 0 0 50 H I L BNN
+F8 "Wurth" 0 0 50 H I L BNN
+DRAW
+A 35 0 35 2700 900 0 0 10 N 35 35 35 -35
+A 35 -100 35 2700 900 0 0 10 N 35 -65 35 -135
+X 1 1 -100 0 100 R 40 40 0 0 P 
+X 2 2 -100 -100 100 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

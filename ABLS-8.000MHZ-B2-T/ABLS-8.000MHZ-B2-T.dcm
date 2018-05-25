@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ABLS-8.000MHZ-B2-T
+D Crystals +/-20ppm 8 MHZ FUNDAMENTAL
+K
+F http://www.abracon.com/Resonators/abls.pdf
+$ENDCMP
+#
+#End Doc Library

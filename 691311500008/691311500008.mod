@@ -1,0 +1,91 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+691311500008
+$EndINDEX
+$MODULE 691311500008
+Po 0 0 0 15 00000000 00000000 ~~
+Li 691311500008
+Cd <b>WR-TBL Serie 311 - 5.08 mm Open Vertical PCB Header , 8 Pins
+Sc 00000000
+At STD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -0.206321 -6.4535 1.00155 1.00155 0 0.05 N V 21 "691311500008"
+T1 0.699879 5.70879 1.00126 1.00126 0 0.05 N V 21 "VAL**"
+DS 20.32 -4.7 -20.32 -4.7 0.127 21
+DS -20.32 -4.7 -20.32 3.8 0.127 21
+DS -20.32 3.8 20.32 3.8 0.127 21
+DS 20.32 3.8 20.32 -4.7 0.127 21
+DP 0 0 0 0 4 0.127 24
+Dl -20.57 -4.95
+Dl 20.57 -4.95
+Dl 20.57 4.05
+Dl -20.57 4.05
+$PAD
+Sh "2" C 2.4 2.4 0 0 0
+Dr 1.6 0 0
+At STD N 00E0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.7 0
+$EndPAD
+$PAD
+Sh "1" C 2.4 2.4 0 0 0
+Dr 1.6 0 0
+At STD N 00E0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -17.78 0
+$EndPAD
+$PAD
+Sh "3" C 2.4 2.4 0 0 0
+Dr 1.6 0 0
+At STD N 00E0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -7.62 0
+$EndPAD
+$PAD
+Sh "4" C 2.4 2.4 0 0 0
+Dr 1.6 0 0
+At STD N 00E0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -2.54 0
+$EndPAD
+$PAD
+Sh "5" C 2.4 2.4 0 0 0
+Dr 1.6 0 0
+At STD N 00E0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 2.54 0
+$EndPAD
+$PAD
+Sh "6" C 2.4 2.4 0 0 0
+Dr 1.6 0 0
+At STD N 00E0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 7.62 0
+$EndPAD
+$PAD
+Sh "7" C 2.4 2.4 0 0 0
+Dr 1.6 0 0
+At STD N 00E0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.7 0
+$EndPAD
+$PAD
+Sh "8" C 2.4 2.4 0 0 0
+Dr 1.6 0 0
+At STD N 00E0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 17.78 0
+$EndPAD
+$EndMODULE 691311500008
